@@ -1,10 +1,6 @@
 {
-  "name": "hyperapp-starter",
+  "name": "hyperapp-ts",
   "version": "0.0.0",
-  "private": true,
-  "description": "Minimal Hyperapp, Typescript and Parcel starter.",
-  "author": "José Quintana <git.io/joseluisq>",
-  "license": "MIT",
   "main": "public/index.html",
   "scripts": {
     "clean": "rm -rf dist .cache",
