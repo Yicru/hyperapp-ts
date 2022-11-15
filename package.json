@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "hyperapp": "^1.2.9",
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.12.5"
   },
   "devDependencies": {
     "@types/jest": "^23.3.9",
